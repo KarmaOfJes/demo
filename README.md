@@ -4,5 +4,5 @@ update
 conflict
 conflict2
 conflcit dev
-some text
+some text2
 conflict2 dev
