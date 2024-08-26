@@ -3,3 +3,6 @@ Hi
 update
 conflict
 conflict2
+conflict master
+
+conflict master2
