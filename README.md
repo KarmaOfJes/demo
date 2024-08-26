@@ -3,6 +3,6 @@ Hi
 update
 conflict
 conflict2
-conflcit dev
-some text2
-conflict2 dev
+conflict master
+space text
+conflict master2
