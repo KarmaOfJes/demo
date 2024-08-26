@@ -2,4 +2,4 @@
 Hi
 update
 conflict
-update2
+conflict2
